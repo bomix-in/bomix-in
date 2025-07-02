@@ -46,8 +46,8 @@ I’m currently exploring the worlds of **Python**, **R**, and how data can tell
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-*(www.linkedin.com/in/bhomick-sudan-655220317)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhomick-sudan-655220317)  
+
 
 ---
 
