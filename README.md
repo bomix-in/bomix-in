@@ -47,7 +47,7 @@ I’m currently exploring the worlds of **Python**, **R**, and how data can tell
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-*(Add your real LinkedIn or portfolio link here!)*
+*(www.linkedin.com/in/bhomick-sudan-655220317)*
 
 ---
 
